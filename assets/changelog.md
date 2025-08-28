@@ -6,7 +6,7 @@ todo: particles, dash, tall grass destruction, tall grass rotation, texture atla
 
 
 ### Date: 19/8/2025
-- [ ] made projectile.js and a bow and arrow system
+- [X] made projectile.js and a bow and arrow system
 ! arrows do not point in the direction they are fired and do not delete themselves after first hit
 - fixed arrows pointing in direction theyre fired and delete themselves after first hit
 ! arrows did not do knockback - fixed: too much knockback - fixed: reduced knockback to 0.2
@@ -52,3 +52,4 @@ todo: particles, dash, tall grass destruction, tall grass rotation, texture atla
 - Added basic movement  
 
 - Made config.js, world.js, isometric.js and player.js
+
