@@ -3,10 +3,8 @@
 todo: particles, dash, tall grass destruction, tall grass rotation, texture atlas everything
  make slimes drop items, make arrows finite, shadow kunai teleportation, flash step, animate slimes
 
-
-
 ### Date: 19/8/2025
-- [X] made projectile.js and a bow and arrow system
+- made projectile.js and a bow and arrow system
 ! arrows do not point in the direction they are fired and do not delete themselves after first hit
 - fixed arrows pointing in direction theyre fired and delete themselves after first hit
 ! arrows did not do knockback - fixed: too much knockback - fixed: reduced knockback to 0.2
